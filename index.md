@@ -1,2 +1,3 @@
-<h text-align:center>怪兽不吃豆<h>
-<p1>泥嚎！<p1>
+<h text-align:center>怪兽不吃豆の祝福<br/></h>
+<p>泥嚎！<br/></p>
+<p>打开的人是gay</p>
